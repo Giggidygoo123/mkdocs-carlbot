@@ -1,3 +1,4 @@
+
 # Animals
 
 !!! info
@@ -14,4 +15,5 @@
 | catbomb | !catbomb | Gives you 5 links instead of just one, only use this if you LOVE cats! |
 | dogbomb | !dogbomb | ^ but dogs. |
 | awwbomb | !awwbomb | ^ but just cute animals. |
+![fennec_126695726](https://user-images.githubusercontent.com/109469803/179401547-9bf35320-0845-4525-844b-9113657443ac.jpg)
 
