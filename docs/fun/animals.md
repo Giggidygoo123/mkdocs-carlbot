@@ -14,4 +14,5 @@
 | catbomb | !catbomb | Gives you 5 links instead of just one, only use this if you LOVE cats! |
 | dogbomb | !dogbomb | ^ but dogs. |
 | awwbomb | !awwbomb | ^ but just cute animals. |
+| fennek  | !fennek  | Gives you a fennek. |![fennec_126695726](https://user-images.githubusercontent.com/109469803/179401419-2665073c-e1cc-4ad2-8ce0-32d4b8b4d0f5.jpg)
 
